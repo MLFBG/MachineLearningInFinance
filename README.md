@@ -25,5 +25,5 @@
 
 ## Validation
 
-Colab projects (50%)
-max(Final Exam, $\frac{\text{mean(Quiz)} + \text{Final Exam}}{2}$)
+* Colab projects (50%)
+* max(Final Exam, (mean(Quiz) + Final Exam)/2)
