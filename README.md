@@ -23,4 +23,7 @@
 | unknown | Sequence Models in Deep Learning | | |
 | unknown | Practical Implementation - Sentiment analysis on Financial News dataset | | |
 
+## Validation
 
+Colab projects (50%)
+max(Final Exam, $$\frac{\text{mean(Quiz) + \text{Final Exam}}}{2}$$
