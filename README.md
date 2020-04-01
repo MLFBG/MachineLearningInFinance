@@ -12,7 +12,7 @@
 ## Syllabus
 
 
-| Date    | Lectures topics  | Quiz  | Colab link
+| Date    | Lectures topics  | Quiz link | Colab link
 |-------- | ---------------- | ------- |---------|
 | unknown | Fundamentals of Machine Learning - Supervised Learning | | |
 | unknown | Models Evaluation and Unsupervised Learning | | |
