@@ -5,8 +5,8 @@
 
 
 ## Prerequisites
-* Basic knowledge in probabilities and calculus
-* Proficiency in some programming language, preferably Python
+* Basic knowledge in probability theory and calculus.
+* Proficiency in some programming language, preferably Python. 
 
 
 ## Syllabus
@@ -26,10 +26,11 @@
 
 ## Validation
 
-* Colab Projects (50%) 
-* max(Final Exam, (mean(Quiz) + Final Exam)/2)
+* Colab Projects (50%)
+* max(Final Exam, (mean(Quiz) + Final Exam)/2) (50%)
 
 
 ## Contact us 
 Please send your projects to machinelearninginfinancebg@gmail.com
+
 
