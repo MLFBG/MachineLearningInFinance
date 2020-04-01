@@ -14,7 +14,7 @@
 
 | Date    | Lectures topics  | Quiz link | Colab link
 |-------- | ---------------- | ------- |---------|
-| unknown | Fundamentals of Machine Learning - Supervised Learning | | |
+| unknown | Fundamentals of Machine Learning - Supervised Learning |https://forms.gle/LjN2aEqLeRpEBRMK7 | |
 | unknown | Models Evaluation and Unsupervised Learning | | |
 | unknown | Practical Implementation on load dataset | | |
 | unknown | Deep Learning: Introduction to Neural Networks | | |
