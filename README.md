@@ -13,7 +13,7 @@
 
 
 | Date    | Lectures topics  | Quiz  | Colab link
-|-------- | ---------------- | ------- |
+|-------- | ---------------- | ------- |---------|
 | unknown | Fundamentals of Machine Learning - Supervised Learning | | |
 | unknown | Models Evaluation and Unsupervised Learning | | |
 | unknown | Practical Implementation on load dataset | | |
