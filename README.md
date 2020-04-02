@@ -32,7 +32,7 @@ The module is structured around 9 sessions of 3 hours each. The sessions are com
 ### Module Aims & Objectives
 The module will introduce the main subareas of Machine Learning in order to tackle various problem tasks. It is practicularly focused on a deeper understanding of sequence modeling tasks using neural networks and graphical models.  
 
-### Learning Outcomes for teaching and quality assurance purposes these cannot be changed
+### Learning Outcomes 
 
 The objective of this module are:
 * Develop knowledge on the roadmap for building machine learning systems.
