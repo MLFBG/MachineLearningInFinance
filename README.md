@@ -1,6 +1,6 @@
 ## Instructors
 
-* Arnaud de Servigny
+* Arnaud de Servigny 
 * Hachem Madmoun 
 
 
@@ -21,16 +21,20 @@
 | 29 April 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models| | |
 | 05 June 2020 | Friday | 13:00 | 16:00 | Sequence Models in Deep Learning | | |
 | 12 June 2020 | Friday | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | |
-| 19 June 2020 | Friday | 13:00 | 16:00 | Final Exam | | |
+| 19 June 2020 | Friday | 13:00 | 16:00 | Dummy exam and revision elements | | |
 
 
 ## Module Outline Information
 
-| Module Code and Title | BUSI97608  Machine Learning and Finance |
-| Lecturer Name | Arnaud de Servigny & Hachem Madmoun |
-| Module Description | The module is structured around 9 sessions of 3 hours each. The sessions are comprised of lectures and practical implementation sessions. Students will be expected to devote an equivalent amount of learning time outside of class, in private and group study of module material. Some of the teaching format will employ Python.|
-| Module Aims & Objectives | The module will introduce the main subareas of Machine Learning in order to tackle various problem tasks. The module is practicularly focused on a deeper understanding of sequentiality. |
-|Learning Outcomes for teaching and quality assurance purposes these cannot be changed|The objective of this module are:
+### Module Description
+|The module is structured around 9 sessions of 3 hours each. The sessions are comprised of lectures and practical implementation sessions. Students will be expected to devote an equivalent amount of learning time outside of class, in private and group study of module material. Some of the teaching format will employ Python.
+
+### Module Aims & Objectives
+The module will introduce the main subareas of Machine Learning in order to tackle various problem tasks. The module is practicularly focused on a deeper understanding of sequentiality. 
+
+### Learning Outcomes for teaching and quality assurance purposes these cannot be changed
+
+The objective of this module are:
 * Develop knowledge on the roadmap for building machine learning systems.
 * Get familiar with traditional Machine Learning algorithms and more advanced techniques including Deep Learning. 
 * Get a good understanding of the basic concepts of Supervised, Unsupervised Learning and Sequence Models.
@@ -40,10 +44,19 @@
 
 
 
-## Validation
+### Assessment 
 
-* Colab Projects (50%)
-* max(Final Exam, (mean(Quiz) + Final Exam)/2) (50%)
+Coursework : 50%
+Exam : 50% 
+
+### Coursework breakdown
+
+| Assignment    | Type | Weighting | Date Released to students | Date Due  | 
+|-------------- | ---- | ---------- | ------------------------ | --------- | 
+| Coursework 3 | Group project | 15 % |  06 May 2020 | 22 May 2020 |
+| Coursework 5 | Group project | 15 % |  22 May 2020 | 12 June 2020 |
+| Coursework 8 | Group project | 20 % |  12 June 2020 | 26 June 2020 |
+
 
 
 ## Contact us 
