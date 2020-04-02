@@ -44,12 +44,12 @@ The objective of this module are:
 
 
 
-### Assessment 
+## Assessment 
 
-Coursework : 50%
-Exam : 50% 
+* Coursework : 50%
+* Exam : 50% 
 
-### Coursework breakdown
+## Coursework breakdown
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
