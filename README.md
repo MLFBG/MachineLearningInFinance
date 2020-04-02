@@ -17,7 +17,7 @@
 | 29 April 2020 | Wednesday | 13:00 | 16:00 | Models Evaluation and Unsupervised Learning | | |
 | 06 May 2020 | Wednesday | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | |
 | 15 May 2020 | Friday | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | |
-| 22 May 2020 | Friday | 13:00 | 16:00 | Practical implementation : Bigram Models | | |
+| 22 May 2020 | Friday | 13:00 | 16:00 | Practical implementation : Word vectors with word2vec algorithm | | |
 | 29 April 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models| | |
 | 05 June 2020 | Friday | 13:00 | 16:00 | Sequence Models in Deep Learning | | |
 | 12 June 2020 | Friday | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | |
