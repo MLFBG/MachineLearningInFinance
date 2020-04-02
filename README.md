@@ -13,12 +13,12 @@
 
 | Date    | Day | Start | End | Lectures topics  | Quiz link | Colab link
 |-------- | ---- | ---- | ---- | ---------------- | ------- |---------|
-| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning - Supervised Learning |[Quiz1](https://docs.google.com/forms/d/e/1FAIpQLScZGq6l5IiL1DyHQT0m26LKa1SX8kmN4mX_dQ-IwOiuz5cJnQ/viewform?usp=sf_link)  | [Code1](https://colab.research.google.com/drive/1O78bRAVgzkh2vz4w4ZqYGV2kqmFXW4-J)  |
+| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning - Supervised Learning   |  |
 | 29 April 2020 | Wednesday | 13:00 | 16:00 | Models Evaluation and Unsupervised Learning | | |
 | 06 May 2020 | Wednesday | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | |
 | 15 May 2020 | Friday | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | |
 | 22 May 2020 | Friday | 13:00 | 16:00 | Practical implementation : Word vectors with word2vec algorithm | | |
-| 29 April 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models| | |
+| 29 May 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models| | |
 | 05 June 2020 | Friday | 13:00 | 16:00 | Sequence Models in Deep Learning | | |
 | 12 June 2020 | Friday | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | |
 | 19 June 2020 | Friday | 13:00 | 16:00 | Dummy exam and revision elements | | |
@@ -53,9 +53,7 @@ The objective of this module are:
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
-| Coursework 3 | Group project | 15 % |  06 May 2020 | 22 May 2020 |
-| Coursework 5 | Group project | 15 % |  22 May 2020 | 12 June 2020 |
-| Coursework 8 | Group project | 20 % |  12 June 2020 | 26 June 2020 |
+| Coursework  | Group project | 50 % |  22 May 2020 | 5 June 2020 |
 
 
 ## Contact us 
