@@ -13,12 +13,12 @@
 
 | Date    | Day | Start | End | Lectures topics  | Quiz link | Colab link
 |----------------- | ---- | ---- | ---- | ---------------- | ------- |---------|
-| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning - Supervised Learning   |  |
-| 29 April 2020 | Wednesday | 13:00 | 16:00 | Models Evaluation and Hyperparameters Tuning for Supervised Learning | | |
+| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning   |  |
+| 29 April 2020 | Wednesday | 13:00 | 16:00 | Supervised Learning Algorithms | | |
 | 06 May 2020 | Wednesday | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | |
-| 15 May 2020 | Friday | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | |
-| 22 May 2020 | Friday | 13:00 | 16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm | | |
-| 29 May 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models| | |
+| 15 May 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models | | |
+| 22 May 2020 | Friday | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | |
+| 29 May 2020 | Friday | 13:00 | 16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | |
 | 05 June 2020 | Friday | 13:00 | 16:00 | Sequence Models in Deep Learning | | |
 | 12 June 2020 | Friday | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | |
 | 19 June 2020 | Friday | 13:00 | 16:00 | Dummy exam and revision elements | | |
