@@ -13,7 +13,7 @@
 
 | Date    | Day | Start | End | Lectures topics  | Quiz link | Programming Session | Solution to Programming Session |
 |----------- | ----------- | ----------- | ----------- | ----------- | ----------- |-----------|----------- |
-| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning   | [Quiz 1](https://forms.gle/D3zdQ52QoCeW3AoB6) | [Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) | [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
+| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/D3zdQ52QoCeW3AoB6) | [Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) | [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
 | 29 April 2020 | Wednesday | 13:00 | 16:00 | Supervised Learning Algorithms | | | | 
 | 06 May 2020 | Wednesday | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | | |
 | 15 May 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models | | | |
