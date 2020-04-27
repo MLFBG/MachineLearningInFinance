@@ -11,26 +11,26 @@
 
 ## Syllabus
 
-| Date    | Day | Start | End | Lectures topics  | Quiz link | Quiz pdf | Programming Session | 
-|----------- | ----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
-| 21 April 2020 | Tuesday | 18:00 | 21:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
-| 24 April 2020 | Friday | 13:00 | 16:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
-| 28 April 2020 |  Tuesday | 18:00 | 21:00 | Supervised Learning Algorithms | | | |
-| 29 April 2020 | Wednesday | 13:00 | 16:00 | Supervised Learning Algorithms | | | |
-| 05 May 2020 |  Tuesday | 18:00 | 21:00 | Practical Implementation : Credit risk dataset | | | |
-| 06 May 2020 | Wednesday | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | | |
-| 12 May 2020 |  Tuesday | 18:00 | 21:00 | Introduction to Sequential data - Hidden Markov Models | | | |
-| 15 May 2020 | Friday | 13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models | | | |
-| 19 May 2020 |  Tuesday | 18:00 | 21:00 | Deep Learning: Introduction to Neural Networks | | | |
-| 22 May 2020 | Friday | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | | |
-| 26 May 2020 |  Tuesday | 18:00 | 21:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | | |
-| 29 May 2020 | Friday | 13:00 | 16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | | |
-| 02 June 2020 |  Tuesday | 18:00 | 21:00 | Sequence Models in Deep Learning | | | |
-| 05 June 2020 | Friday | 13:00 | 16:00 | Sequence Models in Deep Learning | | | |
-| 09 June 2020 |  Tuesday | 18:00 | 21:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | |
-| 12 June 2020 | Friday | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | |
-| 16 June 2020 |  Tuesday | 18:00 | 21:00 | Dummy exam and revision elements | | | |
-| 19 June 2020 | Friday | 13:00 | 16:00 | Dummy exam and revision elements | | | |
+| Date    | Day | Group | Start | End | Lectures topics  | Quiz link | Quiz pdf | Programming Session | 
+|----------- | ----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|-----------|
+| 21 April 2020 | Tuesday | 1 | 18:00 | 21:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
+| 24 April 2020 | Friday | 2 | 13:00 | 16:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
+| 28 April 2020 |  Tuesday | 1 |18:00 | 21:00 | Supervised Learning Algorithms | | | |
+| 29 April 2020 | Wednesday | 2 | 13:00 | 16:00 | Supervised Learning Algorithms | | | |
+| 05 May 2020 |  Tuesday | 1 | 18:00 | 21:00 | Practical Implementation : Credit risk dataset | | | |
+| 06 May 2020 | Wednesday | 2 | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | | |
+| 12 May 2020 |  Tuesday | 1 | 18:00 | 21:00 | Introduction to Sequential data - Hidden Markov Models | | | |
+| 15 May 2020 | Friday | 2 |13:00 | 16:00 | Introduction to Sequential data - Hidden Markov Models | | | |
+| 19 May 2020 |  Tuesday | 1 |18:00 | 21:00 | Deep Learning: Introduction to Neural Networks | | | |
+| 22 May 2020 | Friday | 2 | 13:00 | 16:00 | Deep Learning: Introduction to Neural Networks | | | |
+| 26 May 2020 |  Tuesday | 1 | 18:00 | 21:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | | |
+| 29 May 2020 | Friday | 2 | 13:00 | 16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | | |
+| 02 June 2020 |  Tuesday | 1 | 18:00 | 21:00 | Sequence Models in Deep Learning | | | |
+| 05 June 2020 | Friday | 2 | 13:00 | 16:00 | Sequence Models in Deep Learning | | | |
+| 09 June 2020 |  Tuesday | 1 | 18:00 | 21:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | |
+| 12 June 2020 | Friday | 2 | 13:00 | 16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | |
+| 16 June 2020 |  Tuesday | 1 | 18:00 | 21:00 | Dummy exam and revision elements | | | |
+| 19 June 2020 | Friday | 2 | 13:00 | 16:00 | Dummy exam and revision elements | | | |
 
 ## Module Outline Information
 
