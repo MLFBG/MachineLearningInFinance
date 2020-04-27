@@ -11,17 +11,17 @@
 
 ## Syllabus
 
-| Date    | Day | Start | End | Lectures topics  | Quiz link | Quiz pdf | Programming Session | 
-|----------- | ----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
-| 04/21/20<br>04/24/20 | Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
-| 04/28/20<br>04/29/20 |  Tuesday<br>Wednesday | 18:00<br>13:00 | 21:00<br>16:00 | Supervised Learning Algorithms | | | |
-| 05/05/20<br>05/06/20 |  Tuesday<br>Wednesday | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Credit risk dataset | | | |
-| 05/12/20<br>05/15/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Introduction to Sequential data - Hidden Markov Models | | | |
-| 05/19/20<br>05/22/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Deep Learning: Introduction to Neural Networks | | | |
-| 05/26/20<br>05/29/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | | |
-| 06/02/20<br>06/05/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Sequence Models in Deep Learning | | | |
-| 06/09/20<br>06/12/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | |
-| 06/16/20<br>06/19/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Dummy exam and revision elements | | | |
+| Date    | Day | Start | End | Lectures topics  | Quiz  | Programming Session | 
+|----------- | ----------- | ----------- | ----------- | ----------- | ----------- |-----------|
+| 04/21/20<br>04/24/20 | Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 |  Fundamentals of Machine Learning   | link: [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) pdf:  [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
+| 04/28/20<br>04/29/20 |  Tuesday<br>Wednesday | 18:00<br>13:00 | 21:00<br>16:00 | Supervised Learning Algorithms | | | 
+| 05/05/20<br>05/06/20 |  Tuesday<br>Wednesday | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Credit risk dataset | | |
+| 05/12/20<br>05/15/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Introduction to Sequential data - Hidden Markov Models | | |
+| 05/19/20<br>05/22/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Deep Learning: Introduction to Neural Networks | | | 
+| 05/26/20<br>05/29/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| | |
+| 06/02/20<br>06/05/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Sequence Models in Deep Learning | | | 
+| 06/09/20<br>06/12/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Sentiment analysis on Financial News dataset | | | 
+| 06/16/20<br>06/19/20 |  Tuesday<br>Friday | 18:00<br>13:00 | 21:00<br>16:00 | Dummy exam and revision elements | | | 
 
 
 ## Module Outline Information
