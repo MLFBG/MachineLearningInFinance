@@ -17,7 +17,6 @@
 | 24 April 2020 | Friday | 2 | 13:00 | 16:00 |  Fundamentals of Machine Learning   | [Quiz1](https://forms.gle/dQ56fMHfHc31jHQ96) | [Quiz1](Quiz/Quiz1.pdf "Quiz1 PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
 | 28 April 2020 |  Tuesday | 1 |18:00 | 21:00 | Supervised Learning Algorithms | | | |
 | 29 April 2020 | Wednesday | 2 | 13:00 | 16:00 | Supervised Learning Algorithms | | | |
-|04/28/20<br>04/29/20 | Tuesday<br>Wednesday | 1<br>2 | 18:00<br>13:00 | 21:00<br>16:00 | Supervised Learning Algorithms | | | |
 | 05 May 2020 |  Tuesday | 1 | 18:00 | 21:00 | Practical Implementation : Credit risk dataset | | | |
 | 06 May 2020 | Wednesday | 2 | 13:00 | 16:00 | Practical Implementation : Credit risk dataset | | | |
 | 12 May 2020 |  Tuesday | 1 | 18:00 | 21:00 | Introduction to Sequential data - Hidden Markov Models | | | |
