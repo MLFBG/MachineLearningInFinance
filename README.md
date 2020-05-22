@@ -54,7 +54,7 @@ The objective of this module are:
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
-| Coursework  | Group project | 50 % |  22 May 2020 | 5 June 2020 |
+| Coursework  | Group project | 50 % |  26 May 2020 | 9 June 2020 |
 
 
 ## Contact us 
