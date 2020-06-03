@@ -57,8 +57,7 @@ The objective of this module are:
 | [Coursework](Coursework/Coursework.pdf "Coursework")  | Group project | 50 % |  26 May 2020 | 9 June 2020 |
 
 
-## Contact us 
-Please send your projects to machinelearninginfinancebg@gmail.com
+
 
 
 
