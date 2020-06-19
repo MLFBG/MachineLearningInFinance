@@ -22,7 +22,7 @@
 | 05/26/20<br>05/29/20 |   18:00<br>13:00 | 21:00<br>16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| Practical Implementation | No quiz | [Code6](https://colab.research.google.com/drive/1Lvc7W2j1E6c4tzRtiUZR47gL_pQcX7il?usp=sharing) [Solution6](https://colab.research.google.com/drive/1Trobd0idjcnrDCKtmoFUCggfTINz5Pzy?usp=sharing) |
 | 06/02/20<br>06/05/20 | 18:00<br>13:00 | 21:00<br>16:00 | Sequence Models in Deep Learning | [Lecture_7](Lectures/Lecture_7.pdf "Lecture7 PDF") | [Quiz7_link](https://forms.gle/5TUZg4fqW2rWZSaY8)   [Quiz7_pdf](Quiz/Quiz7.pdf "Quiz7 PDF") [Quiz7_Solution](Quiz_Solution/Quiz7_Solution.pdf "Quiz7_Solution PDF")| [Code7](https://colab.research.google.com/drive/1JQCYvBTpFq5GbkqgiVHzWK1hC5w_0b3i?usp=sharing) [Solution7](https://colab.research.google.com/drive/131ulHAanWirmIeMRBvAO0lr_zzZzqQTV?usp=sharing) | 
 | 06/09/20<br>06/12/20  | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Sentiment Analysis Model  | Practical Implementation |No quiz | [Code8](https://colab.research.google.com/drive/1jG1WIL5GYqM6OjiATESNP3mx88rghI9d?usp=sharing) |
-| 06/16/20<br>06/19/20  | 18:00<br>13:00 | 21:00<br>16:00 | Dummy exam and revision elements | Review | [Quiz9_link](https://forms.gle/Y2W8NUwVD6piztMj9)   [Quiz9_pdf](Quiz/Quiz9.pdf "Quiz9 PDF") [Quiz9_Solution](Quiz_Solution/Quiz9_Solution.pdf "Quiz9_Solution PDF")| Finishing the Programming Session 8 |
+| 06/16/20<br>06/19/20  | 18:00<br>13:00 | 21:00<br>16:00 | Dummy exam and revision elements | Review | [Quiz9_link](https://forms.gle/Y2W8NUwVD6piztMj9)   [Quiz9_pdf](Quiz/Quiz9.pdf "Quiz9 PDF") | Finishing the Programming Session 8 |
 
 
 ## Module Outline Information
