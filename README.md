@@ -13,16 +13,16 @@
 
 | Date    | Start | End | Lectures topics  | Lectures | Quiz  | Programming Session | 
 |----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
-| 04/21/20<br>04/24/20 | 18:00<br>13:00 | 21:00<br>16:00 |  Fundamentals of Machine Learning | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF") |  [Quiz1_link](https://forms.gle/dQ56fMHfHc31jHQ96)   [Quiz1_pdf](Quiz/Quiz1.pdf "Quiz1 PDF") [Quiz1_Solution](Quiz_Solution/Quiz1_Solution.pdf "Quiz1_Solution PDF") |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy) [Solution1](https://colab.research.google.com/drive/1kaP7SVbVObIfywE5YEJVO1iBBezWemQ4) |
-| 04/28/20<br>04/29/20 |  18:00<br>13:00 | 21:00<br>16:00 | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/k9bZ9Nztk9HxvrEY8)   [Quiz2_pdf](Quiz/Quiz2.pdf "Quiz2 PDF") [Quiz2_Solution](Quiz_Solution/Quiz2_Solution.pdf "Quiz2_Solution PDF")|[Code2](https://colab.research.google.com/drive/1JCWMkjKbewQrsKflY9W2HiKWf0Jca0XO) [Solution2](https://colab.research.google.com/drive/1O78bRAVgzkh2vz4w4ZqYGV2kqmFXW4-J) | 
-| 05/05/20<br>05/06/20 | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz|  [Code3](https://colab.research.google.com/drive/17SwT4qCHJuDVi-PGDnx2UzC52jTplVOl?usp=sharing) [Solution3](https://colab.research.google.com/drive/1IQJgEJfiM_htzzkz_va4CKobxrRiGHah?usp=sharing)  |
-| 05/12/20<br>05/15/20 |   18:00<br>13:00 | 21:00<br>16:00 | Introduction to Sequential data - Hidden Markov Models |[Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") | [Quiz4_link](https://forms.gle/7x9svp7gcjMKWw2Z6)   [Quiz4_pdf](Quiz/Quiz4.pdf "Quiz1 PDF") [Quiz4_Solution](Quiz_Solution/Quiz4_Solution.pdf "Quiz4_Solution PDF")|[Code4](https://colab.research.google.com/drive/1xQwlr5wxWm3g4zWtFH4V0IO-3hNBA3Tt?usp=sharing) [Solution4](https://colab.research.google.com/drive/1WOxRFBp-xFNYwgpih9AS5etxUS_9UyS_?usp=sharing) |
-| 05/15/20 |   16:30 | 18:30 | Python Session | Practical Implementation | No quiz |[Code](https://colab.research.google.com/drive/1ixGwSOekLMrr-llPPFIx0ZAw3DqAzXoU?usp=sharing) [Solution](https://colab.research.google.com/drive/1_3hVWGK2AL69LL31jVJhTSKvltd0jcRr?usp=sharing) |
-| 05/19/20<br>05/22/20 |  18:00<br>13:00 | 21:00<br>16:00 | Deep Learning: Introduction to Neural Networks |[Lecture_5](Lectures/Lecture_5.pdf "Lecture5 PDF") |[Quiz5_link](https://forms.gle/632tKKcmfzJJPcok7) [Quiz5_pdf](Quiz/Quiz5.pdf "Quiz5 PDF") [Quiz5_Solution](Quiz_Solution/Quiz5_Solution.pdf "Quiz5_Solution PDF")| [Code5](https://colab.research.google.com/drive/1WcdMWpwK-ol8m1iBV8JjeBNyCxsr9vit?usp=sharing) [Solution5](https://colab.research.google.com/drive/1XmBBmaAzcbx2d_4yntG2Mn3adxtCt5B9?usp=sharing)| 
-| 05/26/20<br>05/29/20 |   18:00<br>13:00 | 21:00<br>16:00 | Practical implementation for Unsupervised Learning: Word vectors with word2vec algorithm| Practical Implementation | No quiz | [Code6](https://colab.research.google.com/drive/1Lvc7W2j1E6c4tzRtiUZR47gL_pQcX7il?usp=sharing) [Solution6](https://colab.research.google.com/drive/1Trobd0idjcnrDCKtmoFUCggfTINz5Pzy?usp=sharing) |
-| 06/02/20<br>06/05/20 | 18:00<br>13:00 | 21:00<br>16:00 | Sequence Models in Deep Learning | [Lecture_7](Lectures/Lecture_7.pdf "Lecture7 PDF") | [Quiz7_link](https://forms.gle/5TUZg4fqW2rWZSaY8)   [Quiz7_pdf](Quiz/Quiz7.pdf "Quiz7 PDF") [Quiz7_Solution](Quiz_Solution/Quiz7_Solution.pdf "Quiz7_Solution PDF")| [Code7](https://colab.research.google.com/drive/1JQCYvBTpFq5GbkqgiVHzWK1hC5w_0b3i?usp=sharing) [Solution7](https://colab.research.google.com/drive/131ulHAanWirmIeMRBvAO0lr_zzZzqQTV?usp=sharing) | 
-| 06/09/20<br>06/12/20  | 18:00<br>13:00 | 21:00<br>16:00 | Practical Implementation : Sentiment Analysis Model  | Practical Implementation |No quiz | [Code8](https://colab.research.google.com/drive/1jG1WIL5GYqM6OjiATESNP3mx88rghI9d?usp=sharing) [Solution8](https://colab.research.google.com/drive/1jG1WIL5GYqM6OjiATESNP3mx88rghI9d?usp=sharing)|
-| 06/16/20<br>06/19/20  | 18:00<br>13:00 | 21:00<br>16:00 | Dummy exam and revision elements | Review | [Quiz9_link](https://forms.gle/Y2W8NUwVD6piztMj9)   [Quiz9_pdf](Quiz/Quiz9.pdf "Quiz9 PDF") [Quiz9_Solution](Quiz_Solution/Quiz9_Solution.pdf "Quiz9_Solution PDF")| Finishing the Programming Session 8 |
+| 04/20/21<br>04/23/21   | 17:30<br>09:00 | 21:00<br>12:30 |  Fundamentals of Machine Learning | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF") |  [Quiz1_link](https://forms.gle/dQ56fMHfHc31jHQ96)   [Quiz1_pdf](Quiz/Quiz1.pdf "Quiz1 PDF")  |[Code1](https://colab.research.google.com/drive/11oUfmfzmx4fpLedTbVXp_dRPf2YQYRMy)  |
+| 04/27/21<br>04/30/21 |  17:30<br>09:00 | 21:00<br>12:30 | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | | | 
+| 05/04/21<br>05/07/21 | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz|  |
+| 05/11/21<br>05/14/21 |   17:30<br>09:00 | 21:00<br>12:30 | Introduction to Sequential data - Hidden Markov Models |[Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") | | |
+| - |   - | - | Additional Python Session | Practical Implementation | No quiz | |
+| 05/18/21<br>05/21/21 |  17:30<br>09:00 | 21:00<br>12:30 | Deep Learning: Introduction to Neural Networks |[Lecture_5](Lectures/Lecture_5.pdf "Lecture5 PDF") | | | 
+| 05/25/21<br>05/28/21 |   17:30<br>09:00 | 21:00<br>12:30 | Practical implementation for Unsupervised Learning | Practical Implementation | No quiz | |
+| 06/01/21<br>06/04/21 | 17:30<br>09:00 | 21:00<br>12:30 | Sequence Models in Deep Learning | [Lecture_7](Lectures/Lecture_7.pdf "Lecture7 PDF") | |  | 
+| 06/08/21<br>06/11/21  | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Sentiment Analysis Model  | Practical Implementation |No quiz | |
+| 06/15/21<br>06/18/21  | 17:30<br>09:00 | 21:00<br>12:30 | Dummy exam and revision elements | Review | |  |
 
 
 ## Module Outline Information
@@ -54,7 +54,7 @@ The objective of this module are:
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
-| [Coursework](Coursework/Coursework.pdf "Coursework")  | Group project | 50 % |  26 May 2020 | 11 June 2020 |
+|   | Group project | 50 % |  - | - |
 
 
 
