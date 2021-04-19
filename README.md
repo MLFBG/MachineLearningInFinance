@@ -1,25 +1,25 @@
 <img src="https://drive.google.com/uc?export=view&id=1gmxxmwCR1WXK0IYtNqvE4QXFleznWqQO" height="70"/>
-
+# Machine Learning and Finance 2020/2021
 Welcome to you all !
 
 This [GitHub page](https://mlfbg.github.io/MachineLearningInFinance/) contains all the materials for the course *Machine Learning and Finance* 2020/2021.
 
-# Instructors
+## Instructors
 
 * Arnaud de Servigny 
 * Hachem Madmoun 
 
-# Getting Started
+## Getting Started
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 * If you prefer to run the scripts on your machine, please follow the instructions in the following link: [Installation instruction](https://colab.research.google.com/drive/1GtAF3kuPGDhxRYacLVUMm5S8f1uBA_oM?usp=sharing)
 
 
-# Prerequisites
+## Prerequisites
 * Basic knowledge in probability theory and calculus.
 * Proficiency in some programming language, preferably Python. 
 
 
-# Syllabus
+## Syllabus
 
 | Date    | Start | End | Lectures topics  | Lectures | Quiz  | Programming Session | 
 |----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
