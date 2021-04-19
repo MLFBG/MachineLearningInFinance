@@ -2,7 +2,7 @@
 
 Welcome to you all !
 
-This [GitHub page](https://mlfbg.github.io/MachineLearningInFinance/) contains all the materials for the course **Machine Learning and Finance 2021**.
+This [GitHub page](https://mlfbg.github.io/MachineLearningInFinance/) contains all the materials for the course **Machine Learning and Finance 2021** at Imperial College Business School.
 
 ## Instructors
 
