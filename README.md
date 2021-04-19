@@ -45,7 +45,7 @@ The module will introduce the main subareas of Machine Learning in order to tack
 
 ### Learning Outcomes 
 
-The objective of this module are:
+The objectives of this module are:
 * Develop knowledge on the roadmap for building machine learning systems.
 * Get familiar with traditional Machine Learning algorithms and more advanced techniques including Deep Learning. 
 * Get a good understanding of the basic concepts of Supervised Learning, Unsupervised Learning and Sequence Models.
