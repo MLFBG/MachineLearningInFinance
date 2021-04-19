@@ -11,7 +11,7 @@ This [GitHub page](https://mlfbg.github.io/MachineLearningInFinance/) contains a
 
 ## Getting Started
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
-* If you prefer to run the scripts on your machine, please follow the instructions in the following link: [Installation instruction](https://colab.research.google.com/drive/1GtAF3kuPGDhxRYacLVUMm5S8f1uBA_oM?usp=sharing)
+* If you prefer to run the scripts on your machine, please follow the instructions in the following link: [Installation instruction](https://colab.research.google.com/drive/14pu0nL23Nmx2noYLpGOiRCwueJLHyPNj?usp=sharing)
 
 
 ## Prerequisites
