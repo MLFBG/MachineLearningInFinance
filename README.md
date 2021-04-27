@@ -24,7 +24,7 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | Date    | Start | End | Lectures topics  | Lectures | Quiz  | Programming Session | 
 |----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
 | 04/20/21<br>04/23/21   | 17:30<br>09:00 | 21:00<br>12:30 |  Fundamentals of Machine Learning | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF") |  [Quiz1_link](https://forms.gle/CNpc7EWaHozLYseo6)   [Quiz1_pdf](Quiz/Quiz1.pdf "Quiz1 PDF")  |[Code1](https://colab.research.google.com/drive/1o72fpIsPRspFlWqHkgkZAgkSZdziLqPM?usp=sharing)  [Solution1](https://colab.research.google.com/drive/1dsxtg7_vfdalfj-ikIV2xsaT4ntVLiNq?usp=sharing)|
-| 04/27/21<br>04/30/21 |  17:30<br>09:00 | 21:00<br>12:30 | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/AquEnrH1e21Fv2gQ6) | [Code2](https://colab.research.google.com/drive/1mYIKKY09ss7xc4vSdZAF0woEkf_tDy4X?usp=sharing) | 
+| 04/27/21<br>04/30/21 |  17:30<br>09:00 | 21:00<br>12:30 | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/AquEnrH1e21Fv2gQ6) [Quiz2_pdf](Quiz/Quiz2.pdf "Quiz2 PDF") | [Code2](https://colab.research.google.com/drive/1mYIKKY09ss7xc4vSdZAF0woEkf_tDy4X?usp=sharing) | 
 | 04/30/21 | 18:00 | 20:00 | Additional Python Session | Practical Implementation | No quiz | |
 | 05/04/21<br>05/07/21 | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz|  |
 | 05/11/21<br>05/14/21 |   17:30<br>09:00 | 21:00<br>12:30 | Introduction to Sequential data - Hidden Markov Models |[Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") | | |
