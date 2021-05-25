@@ -29,10 +29,11 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | 05/04/21<br>05/07/21 | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz| [Code3](https://colab.research.google.com/drive/1OUsKGQlElfKkKmW9jHeW3-jFHVbvsiAD?usp=sharing) [Solution3](https://colab.research.google.com/drive/1IQJgEJfiM_htzzkz_va4CKobxrRiGHah?usp=sharing) |
 | 05/11/21<br>05/14/21 |   17:30<br>09:00 | 21:00<br>12:30 | Introduction to Sequential data - Hidden Markov Models |[Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF")  |[Quiz4_link](https://forms.gle/CdvDi9QgvUXic9k97) [Quiz4_pdf](Quiz/Quiz4.pdf "Quiz4 PDF")|[Code4](https://colab.research.google.com/drive/1xQwlr5wxWm3g4zWtFH4V0IO-3hNBA3Tt?usp=sharing) [Solution4](https://colab.research.google.com/drive/1WOxRFBp-xFNYwgpih9AS5etxUS_9UyS_?usp=sharing) |
 | 05/18/21<br>05/21/21 |  17:30<br>09:00 | 21:00<br>12:30 | Deep Learning: Introduction to Neural Networks |[Lecture_5](Lectures/Lecture_5.pdf "Lecture5 PDF") [Optional_Reading](https://drive.google.com/file/d/10NaWFAGu4C-7Rr3BGtP8_61nQmja4du3/view?usp=sharing) |[Quiz5_link](https://forms.gle/yZ8fbGDkz749pQfA7) [Quiz5_pdf](Quiz/Quiz5.pdf "Quiz5 PDF") | [Code5](https://colab.research.google.com/drive/1WcdMWpwK-ol8m1iBV8JjeBNyCxsr9vit?usp=sharing)| 
-| 05/25/21<br>05/28/21 |   17:30<br>09:00 | 21:00<br>12:30 | Practical implementation for Unsupervised Learning | [Lecture_2](Lectures/Lecture_6.pdf "Lecture6 PDF") | No quiz | |
+| 05/25/21<br>05/28/21 |   17:30<br>09:00 | 21:00<br>12:30 | Practical implementation for Unsupervised Learning | [Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF") | [Quiz_Coursework](https://forms.gle/W2egr1Vk4t9xrBkE9) |Code6](https://colab.research.google.com/drive/1Lvc7W2j1E6c4tzRtiUZR47gL_pQcX7il?usp=sharing) |
 | 06/01/21<br>06/04/21 | 17:30<br>09:00 | 21:00<br>12:30 | Sequence Models in Deep Learning | [Lecture_7](Lectures/Lecture_7.pdf "Lecture7 PDF") | |  | 
 | 06/08/21<br>06/11/21  | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Sentiment Analysis Model  | Practical Implementation |No quiz | |
 | 06/15/21<br>06/18/21  | 17:30<br>09:00 | 21:00<br>12:30 | Dummy exam and revision elements | Review | |  |
+
 
 
 ## Module Outline Information
