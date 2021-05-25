@@ -64,7 +64,17 @@ The objectives of this module are:
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
-|   | Group project | 50 % |  - | - |
+|   | Group project | 50 % |  05/28/21 | - |
+
+
+
+## Past Exams and Courseworks
+
+| Year    | Document | 
+|-------------- | ---- | 
+| 2020  | [Coursework](Past_Exams_Coursework/2020/Coursework.pdf "Coursework PDF") | 
+
+
 
 
 
