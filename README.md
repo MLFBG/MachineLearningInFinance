@@ -32,7 +32,7 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | 05/25/21<br>05/28/21 |   17:30<br>09:00 | 21:00<br>12:30 | Practical implementation for Unsupervised Learning | [Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF") | [Quiz_Coursework](https://forms.gle/W2egr1Vk4t9xrBkE9) |[Code6](https://colab.research.google.com/drive/1Lvc7W2j1E6c4tzRtiUZR47gL_pQcX7il?usp=sharing) [Solution_6](https://colab.research.google.com/drive/1Trobd0idjcnrDCKtmoFUCggfTINz5Pzy?usp=sharing)|
 | 06/01/21<br>06/04/21 | 17:30<br>09:00 | 21:00<br>12:30 | Sequence Models in Deep Learning | [Lecture_7](Lectures/Lecture_7.pdf "Lecture7 PDF") | [Quiz7_link](https://forms.gle/KFXjwEjmEXzrARDx9) [Quiz7_pdf](Quiz/Quiz7.pdf "Quiz7 PDF") | [Code7](https://colab.research.google.com/drive/1JQCYvBTpFq5GbkqgiVHzWK1hC5w_0b3i?usp=sharing)  [Solution7](https://colab.research.google.com/drive/131ulHAanWirmIeMRBvAO0lr_zzZzqQTV?usp=sharing)| 
 | 06/08/21<br>06/11/21  | 17:30<br>09:00 | 21:00<br>12:30 | Practical Implementation : Sentiment Analysis Model  | Practical Implementation |No quiz | [Code8](https://colab.research.google.com/drive/1sjZtaB-dlZVO7EsWpjkZHCNbQ11hLWgQ?usp=sharing)|
-| 06/15/21<br>06/18/21  | 17:30<br>09:00 | 21:00<br>12:30 | Dummy exam and revision elements | Review | |  |
+| 06/15/21<br>06/18/21  | 17:30<br>09:00 | 21:00<br>12:30 | Dummy exam and revision elements | Review | [Quiz9_link](https://forms.gle/dLvkdYbqwJQiexhV7) |  |
 
 
 ## Module Outline Information
