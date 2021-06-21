@@ -60,6 +60,7 @@ The objectives of this module are:
 * Coursework : 50%
 * Exam : 50% 
 
+
 ## Coursework breakdown
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
@@ -68,15 +69,17 @@ The objectives of this module are:
 
 
 
-## Past Exams and Courseworks
+## Past Courseworks
 
-| Year    | Document | 
-|-------------- | ---- | 
-| 2020  | [Coursework](Past_Exams_Coursework/2020/Coursework.pdf "Coursework PDF") | 
+| Year    | Coursework | Solution | 
+|-------------- | ---- | --------|
+| 2020  | [Coursework](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | [Coursework_Solution](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
+| 2021  | [Coursework](Past_Exams_Courseworks/Courseworks/2020/Courseworks/2021/Coursework.pdf "Coursework PDF") | [Coursework_Solution](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
 
 
+## Contact
 
-
+Please feel free to contact us if you have any questions or require further information at: hachem@bramham-gardens.com 
 
 
 
