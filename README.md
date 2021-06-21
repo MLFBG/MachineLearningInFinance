@@ -73,8 +73,8 @@ The objectives of this module are:
 
 | Year    | Coursework | Solution | 
 |-------------- | ---- | --------|
-| 2020  | [Coursework](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | [Coursework_Solution](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
-| 2021  | [Coursework](Past_Exams_Courseworks/Courseworks/2020/Courseworks/2021/Coursework.pdf "Coursework PDF") | [Coursework_Solution](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
+| 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | [Coursework_Solution_2020](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
+| 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") | [Coursework_Solution_2021](https://colab.research.google.com/drive/1GyiYC-zRAYlec-hcUq3HQki3NmDc5ntH?usp=sharing) |
 
 
 ## Contact
