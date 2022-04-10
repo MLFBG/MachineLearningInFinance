@@ -79,7 +79,7 @@ The objectives of this module are:
 
 ## Contact
 
-Please feel free to contact us if you have any questions or require further information at: hachem@bramham-gardens.com 
+Please feel free to contact us if you have any questions or require further information at: h.madmoun@imperial.ac.uk
 
 
 
