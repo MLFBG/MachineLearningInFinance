@@ -25,7 +25,7 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 |----------- | ----------- | ----------- | ----------- | ----------- |-----------|-----------|
 | 04/12/22<br>04/12/22   | 09:00<br>14:00 | 12:00<br>17:00 |  Fundamentals of Machine Learning | [Lecture_1](Lectures/Lecture_1.pdf "Lecture1 PDF")  [Optional_reading](https://colab.research.google.com/drive/1gcbB3-3Y6AfohDFJYKmFPF2G-4EIPDTi?usp=sharing) |  [Quiz1_link](https://forms.gle/CNpc7EWaHozLYseo6)   [Quiz1_pdf](Quiz/Quiz1.pdf "Quiz1 PDF")  |[Code1](https://colab.research.google.com/drive/1xN-91-vOGxpLUr0ecemxvdDmQafeDEqQ?usp=sharing)|
 | 04/22/22 | 18:00 | 20:00 | Additional Python Session | Practical Implementation | No quiz ||
-| 04/26/22<br>04/26/22 |  09:00<br>14:00 | 12:00<br>17:00  | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/AquEnrH1e21Fv2gQ6) [Quiz2_pdf](Quiz/Quiz2.pdf "Quiz2 PDF") | | 
+| 04/26/22<br>04/26/22 |  09:00<br>14:00 | 12:00<br>17:00  | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") |  | | 
 | 05/03/22<br>05/03/22 | 09:00<br>14:00 | 12:00<br>17:00 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz| |
 | 05/10/22<br>05/10/22 |   09:00<br>14:00 | 12:00<br>17:00  | Introduction to Neural Networks. | | | |
 | 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. | | | | 
