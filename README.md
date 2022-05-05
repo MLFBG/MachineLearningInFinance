@@ -27,10 +27,10 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | 04/22/22 | 18:00 | 20:00 | Additional Python Session | Practical Implementation | No quiz |[Code_Python](https://colab.research.google.com/drive/1TXIKaXvdkksF3RhW_u63uDn4d6iVGvKB?usp=sharing) [Solution_Python](https://colab.research.google.com/drive/1pRlyGPBJhizXXcSRxITIgCI8MQxS34Vp?usp=sharing)  |
 | 04/26/22<br>04/26/22 |  09:00<br>14:00 | 12:00<br>17:00  | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/1osN8uaVDfiqgUba8) [Quiz2_pdf](Quiz/Quiz2.pdf "Quiz2 PDF") | [Code2](https://colab.research.google.com/drive/1o1M80duDiQCCCl4o9L8HFKGaPynV4OTW?usp=sharing) [Solution2](https://colab.research.google.com/drive/1hjgPD5Y5uAzK7i2_XUKVoHQoipuJqIfR?usp=sharing) | 
 | 05/03/22<br>05/03/22 | 09:00<br>14:00 | 12:00<br>17:00 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz| [Code3](https://colab.research.google.com/drive/1A7_j619MIpaZAwdu0099sgZF8qv576P2?usp=sharing) [Solution3](https://colab.research.google.com/drive/15DXsF6Tw42rBCQ5AvI0017QGND_I1_Yn?usp=sharing) |
-| 05/10/22<br>05/10/22 |   09:00<br>14:00 | 12:00<br>17:00  | Introduction to Neural Networks. | | | |
-| 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. | | | | 
-| 05/24/22<br>05/24/22 |   09:00<br>14:00 | 12:00<br>17:00  | Neural Networks for sequences. |  |  | |
-| 05/31/22<br>05/31/22 | 09:00<br>14:00 | 12:00<br>17:00  | Practical Implementation: Sentiment Analysis  | |  | | 
+| 05/10/22<br>05/10/22 |   09:00<br>14:00 | 12:00<br>17:00  | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") | | |
+| 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. |[Practical Implementation](Lectures/Lecture_5.pdf "Lecture5 PDF") | | | 
+| 05/24/22<br>05/24/22 |   09:00<br>14:00 | 12:00<br>17:00  | Neural Networks for sequences. |[Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF")  |  | |
+| 05/31/22<br>05/31/22 | 09:00<br>14:00 | 12:00<br>17:00  | Practical Implementation: Sentiment Analysis  | Practical Implementation |  | | 
 | 06/07/22<br>06/07/22  | 09:00<br>14:00 | 12:00<br>17:00  |Attention mechanisms and Transformers | | | |
 | 06/14/22<br>06/14/22  | 09:00<br>14:00 | 12:00<br>17:00  | Dummy exam and revision elements | Review |  |  |
 
