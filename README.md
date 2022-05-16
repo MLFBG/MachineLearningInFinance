@@ -28,7 +28,7 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | 04/26/22<br>04/26/22 |  09:00<br>14:00 | 12:00<br>17:00  | Supervised Learning Algorithms | [Lecture_2](Lectures/Lecture_2.pdf "Lecture2 PDF") | [Quiz2_link](https://forms.gle/1osN8uaVDfiqgUba8) [Quiz2_pdf](Quiz/Quiz2.pdf "Quiz2 PDF") | [Code2](https://colab.research.google.com/drive/1o1M80duDiQCCCl4o9L8HFKGaPynV4OTW?usp=sharing) [Solution2](https://colab.research.google.com/drive/1hjgPD5Y5uAzK7i2_XUKVoHQoipuJqIfR?usp=sharing) | |
 | 05/03/22<br>05/03/22 | 09:00<br>14:00 | 12:00<br>17:00 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz| [Code3](https://colab.research.google.com/drive/1A7_j619MIpaZAwdu0099sgZF8qv576P2?usp=sharing) [Solution3](https://colab.research.google.com/drive/15DXsF6Tw42rBCQ5AvI0017QGND_I1_Yn?usp=sharing) | |
 | 05/10/22<br>05/10/22 |   09:00<br>14:00 | 12:00<br>17:00  | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") |[Quiz4_link](https://forms.gle/j4zYeCfrfswoYh7T7)   [Quiz4_pdf](Quiz/Quiz4.pdf "Quiz4 PDF")| [Code4](https://colab.research.google.com/drive/1UbsAuO7Eiyw7aVfeEHLswryK-PjFZITc?usp=sharing) [Solution4](https://colab.research.google.com/drive/1OX3oU22gh0_gLwrqPRscUlun4aJl3nrv?usp=sharing)| [Optional_reading](https://colab.research.google.com/drive/1ig5RFFtx8NTebwqZr-WHJYGYv7zZsiL5?usp=sharing)|
-| 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. |[Practical Implementation](Lectures/Lecture_5.pdf "Lecture5 PDF") | | | |
+| 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. |[Practical Implementation](Lectures/Lecture_5.pdf "Lecture5 PDF") | No quiz | [Code5](https://colab.research.google.com/drive/1jmf8rBkH5nsRgyOMXvqeqvX0_o4Rzy48?usp=sharing) | [GloVe reference](https://nlp.stanford.edu/pubs/glove.pdf)|
 | 05/24/22<br>05/24/22 |   09:00<br>14:00 | 12:00<br>17:00  | Neural Networks for sequences. |[Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF")  |  | | |
 | 05/31/22<br>05/31/22 | 09:00<br>14:00 | 12:00<br>17:00  | Practical Implementation: Sentiment Analysis  | Practical Implementation |  | | |
 | 06/07/22<br>06/07/22  | 09:00<br>14:00 | 12:00<br>17:00  |Attention mechanisms and Transformers | | | | |
@@ -70,10 +70,10 @@ The objectives of this module are:
 
 ## Past Courseworks
 
-| Year    | Coursework | Solution | 
-|-------------- | ---- | --------|
-| 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") | [Coursework_Solution_2021](https://colab.research.google.com/drive/1GyiYC-zRAYlec-hcUq3HQki3NmDc5ntH?usp=sharing) |
-| 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | [Coursework_Solution_2020](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing) |
+| Year    | Coursework | 
+|-------------- | ---- | 
+| 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") | 
+| 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | 
 
 
 
