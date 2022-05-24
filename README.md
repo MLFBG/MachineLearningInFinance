@@ -68,12 +68,16 @@ The objectives of this module are:
 
 
 
-## Past Courseworks
+## Past Courseworks and Exams
 
-| Year    | Coursework | 
-|-------------- | ---- | 
-| 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") | 
-| 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | 
+| Year    | Coursework | Exam |
+|-------------- | ---- | -----|
+| 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") | [Exam_2021](Past_Exams_Courseworks/Exams/2021/Exam_2021.pdf "Exam PDF") [Solution_2021](Past_Exams_Courseworks/Exams/2021/Solution_2021.pdf "Exam PDF") |
+| 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") | [Exam_2020](Past_Exams_Courseworks/Exams/2020/Exam_2020.pdf "Exam PDF") [Solution_2020](Past_Exams_Courseworks/Exams/2021/Solution_2020.pdf "Exam PDF") |
+
+
+
+
 
 
 
