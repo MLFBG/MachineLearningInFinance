@@ -29,7 +29,7 @@ This [GitHub Home page](https://mlfbg.github.io/MachineLearningInFinance/) conta
 | 05/03/22<br>05/03/22 | 09:00<br>14:00 | 12:00<br>17:00 | Practical Implementation : Credit risk dataset | Practical Implementation | No quiz| [Code3](https://colab.research.google.com/drive/1A7_j619MIpaZAwdu0099sgZF8qv576P2?usp=sharing) [Solution3](https://colab.research.google.com/drive/15DXsF6Tw42rBCQ5AvI0017QGND_I1_Yn?usp=sharing) | |
 | 05/10/22<br>05/10/22 |   09:00<br>14:00 | 12:00<br>17:00  | Introduction to Neural Networks. | [Lecture_4](Lectures/Lecture_4.pdf "Lecture4 PDF") |[Quiz4_link](https://forms.gle/j4zYeCfrfswoYh7T7)   [Quiz4_pdf](Quiz/Quiz4.pdf "Quiz4 PDF")| [Code4](https://colab.research.google.com/drive/1UbsAuO7Eiyw7aVfeEHLswryK-PjFZITc?usp=sharing) [Solution4](https://colab.research.google.com/drive/1OX3oU22gh0_gLwrqPRscUlun4aJl3nrv?usp=sharing)| [Optional_reading](https://colab.research.google.com/drive/1ig5RFFtx8NTebwqZr-WHJYGYv7zZsiL5?usp=sharing)|
 | 05/17/22<br>05/17/22 |  09:00<br>14:00 | 12:00<br>17:00  | Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach. |[Practical Implementation](Lectures/Lecture_5.pdf "Lecture5 PDF") | [Quiz5_link](https://forms.gle/SG7NcMXd5SJwpvuX7)   [Quiz5_pdf](Quiz/Quiz5.pdf "Quiz5 PDF") | [Code5](https://colab.research.google.com/drive/1jmf8rBkH5nsRgyOMXvqeqvX0_o4Rzy48?usp=sharing) [Solution5](https://colab.research.google.com/drive/1OjRifPKpVqnT7ZFpfy0rNYaxWBDqpPUd?usp=sharing) | [GloVe reference](https://nlp.stanford.edu/pubs/glove.pdf)|
-| 05/24/22<br>05/24/22 |   09:00<br>14:00 | 12:00<br>17:00  | Neural Networks for sequences. |[Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF")  |  | | |
+| 05/24/22<br>05/24/22 |   09:00<br>14:00 | 12:00<br>17:00  | Neural Networks for sequences. |[Lecture_6](Lectures/Lecture_6.pdf "Lecture6 PDF")  | [Quiz6_link](https://forms.gle/xYcQ7Px2Z4eJQxxQ8) [Quiz6_pdf](Quiz/Quiz6.pdf "Quiz6 PDF")| [Code6](https://colab.research.google.com/drive/1Hy_38E-T0uXgCZ4xIFRCCgpnVJmLeVEs?usp=sharing) | |
 | 05/31/22<br>05/31/22 | 09:00<br>14:00 | 12:00<br>17:00  | Practical Implementation: Sentiment Analysis  | Practical Implementation |  | | |
 | 06/07/22<br>06/07/22  | 09:00<br>14:00 | 12:00<br>17:00  |Attention mechanisms and Transformers | | | | |
 | 06/14/22<br>06/14/22  | 09:00<br>14:00 | 12:00<br>17:00  | Dummy exam and revision elements | Review |  |  | |
@@ -64,7 +64,7 @@ The objectives of this module are:
 
 | Assignment    | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | 
-|   | Group project | 50 % |  05/24/22 | 06/06/2022 |
+| [Coursework_2022](Coursework/Coursework.pdf "Coursework PDF")  | Group project | 50 % |  05/24/22 | 06/06/2022 |
 
 
 
