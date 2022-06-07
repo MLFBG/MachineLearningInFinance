@@ -64,7 +64,7 @@ The objectives of this module are:
 
 | Assignment    | Quiz Coursework | Quiz Coursework Solutions | Slides | Type | Weighting | Date Released to students | Date Due  | 
 |-------------- | ---- | ---------- | ------------------------ | --------- | ---------- | ---------- | ---------- |
-| [Coursework_2022](Coursework/Coursework.pdf "Coursework PDF")  | [Preprocessing](Coursework/Quizzes/Quiz_Coursework_Preprocessing.pdf) <br/> [Creating training Dataset](Coursework/Quizzes/Quiz_Coursework_Creating_the_training_Dataset.pdf) <br/> [Training Process](Coursework/Quizzes/Quiz_Coursework_Training.pdf) | [Preprocessing](Coursework/Quizzes/Solution_Coursework_Preprocessing.pdf)  <br/> [Creating training Dataset](Coursework/Quizzes/Solution_Coursework_Creating_the_training_Dataset.pdf)  <br/> [Training Process](Coursework/Quizzes/Solution_Coursework_Training.pdf)   | [Quizzes Slides](Coursework/Quizzes/Coursework_Slides.pdf) | Group project | 50 % |  05/24/22 | 06/06/2022 |
+| [Coursework_2022](Coursework/Coursework.pdf "Coursework PDF")  | [Preprocessing](Coursework/Quizzes/Quiz_Coursework_Preprocessing.pdf) <br/> [Creating_Training_Dataset](Coursework/Quizzes/Quiz_Coursework_Creating_the_training_Dataset.pdf) <br/> [Training_Process](Coursework/Quizzes/Quiz_Coursework_Training.pdf) | [Preprocessing](Coursework/Quizzes/Solution_Coursework_Preprocessing.pdf)  <br/> [Creating_Training_Dataset](Coursework/Quizzes/Solution_Coursework_Creating_the_training_Dataset.pdf)  <br/> [Training_Process](Coursework/Quizzes/Solution_Coursework_Training.pdf)   | [Quizzes_Slides](Coursework/Quizzes/Coursework_Slides.pdf) | Group project | 50 % |  05/24/22 | 06/06/2022 |
 
 
 
