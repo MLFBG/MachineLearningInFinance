@@ -73,7 +73,7 @@ The objectives of this module are:
 
 | Year    | Coursework | Exam |
 |-------------- | ---- | -----|
-| 2022  | [Coursework_2022](Past_Exams_Courseworks/Courseworks/2022/Coursework.pdf "Coursework PDF") <br/> [Solution_2022](https://colab.research.google.com/drive/1fNdinj_lNt4zV2-GsH4Lt9PVtKg-bHcV?usp=sharing) | [Exam_2021](Past_Exams_Courseworks/Exams/2021/Exam_2021.pdf "Exam PDF") <br/> [Solution_2021](Past_Exams_Courseworks/Exams/2021/Solution_2021.pdf "Exam PDF") |
+| 2022  | [Coursework_2022](Past_Exams_Courseworks/Courseworks/2022/Coursework.pdf "Coursework PDF") <br/> [Solution_2022](https://colab.research.google.com/drive/1fNdinj_lNt4zV2-GsH4Lt9PVtKg-bHcV?usp=sharing) | [Exam_2022](Past_Exams_Courseworks/Exams/2022/Exam_2022.pdf "Exam PDF") |
 | 2021  | [Coursework_2021](Past_Exams_Courseworks/Courseworks/2021/Coursework.pdf "Coursework PDF") <br/> [Solution_2021](https://colab.research.google.com/drive/1GyiYC-zRAYlec-hcUq3HQki3NmDc5ntH?usp=sharing)  | [Exam_2021](Past_Exams_Courseworks/Exams/2021/Exam_2021.pdf "Exam PDF") <br/> [Solution_2021](Past_Exams_Courseworks/Exams/2021/Solution_2021.pdf "Exam PDF") |
 | 2020  | [Coursework_2020](Past_Exams_Courseworks/Courseworks/2020/Coursework.pdf "Coursework PDF") <br/> [Solution_2020](https://colab.research.google.com/drive/1MGNTluiCN0xy5MWGhW6uxl3KsY5jRSbV?usp=sharing)  | [Exam_2020](Past_Exams_Courseworks/Exams/2020/Exam_2020.pdf "Exam PDF") <br/> [Solution_2020](Past_Exams_Courseworks/Exams/2020/Solution_2020.pdf "Exam PDF") |
 
